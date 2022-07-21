@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC22_UserLogin_negatif</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0720271-65d6-492f-9825-7792c6094698</testCaseGuid>
+</TestCaseEntity>

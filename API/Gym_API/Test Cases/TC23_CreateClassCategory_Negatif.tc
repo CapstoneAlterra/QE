@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC23_CreateClassCategory_Negatif</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c83c1f57-e5b5-45f7-827c-db3ae54f49b0</testCaseGuid>
+</TestCaseEntity>

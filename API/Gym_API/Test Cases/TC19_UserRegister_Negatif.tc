@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC19_UserRegister_Negatif</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8c0a0c7-86d2-42c0-90a1-d23d8c2517ac</testCaseGuid>
+</TestCaseEntity>
