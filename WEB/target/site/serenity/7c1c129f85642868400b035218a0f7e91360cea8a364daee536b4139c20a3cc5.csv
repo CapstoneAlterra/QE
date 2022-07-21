@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login","As Admin, I have be able to success login","SUCCESS","2022-07-21T12:15:38.187+07:00[Asia/Bangkok]","0.0","4.59"
+"Login","As Admin, I have submit invalid data login","SUCCESS","2022-07-21T12:15:43.458+07:00[Asia/Bangkok]","0.0","3.06"

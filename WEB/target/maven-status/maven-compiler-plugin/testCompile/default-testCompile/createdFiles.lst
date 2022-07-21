@@ -1,0 +1,17 @@
+starter\pages\ManageOfflineClassPage.class
+starter\pages\SettingPage.class
+starter\pages\ManageOnlineClassPage.class
+starter\stepdefinitions\ClassOnlineManageScenarioSteps.class
+starter\pages\Dashboard.class
+starter\stepdefinitions\SettingScenarioSteps.class
+starter\pages\ManageUserPage.class
+starter\stepdefinitions\ClassOfflineManagerScenariosSteps.class
+starter\stepdefinitions\ManageUserScenarioSteps.class
+starter\stepdefinitions\MembershipScenarioSteps.class
+starter\stepdefinitions\DahsboardScenarioSteps.class
+starter\pages\ContentPage.class
+starter\pages\LogoutPage.class
+starter\stepdefinitions\LoginSteps.class
+starter\pages\MembershipPage.class
+starter\CucumberTestSuite.class
+starter\pages\LoginPage.class
